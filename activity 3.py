@@ -11,7 +11,8 @@ up2 = 1
 lp2 =1
 print(f"A162 \t IT-104 \t Discrete Mathematics \t\t\t  {udm} \t   \t\t 7:30-9 am MTh COMLAB6A \t AI11 \t\t M. Laurente ______")
 print(f"A168 \t IT-130L \t Computer Hardware and Repair \t  {uchr}  \t\t\t 9-10:30 am MTh CHSROOM1A \t AI11 \t\t D. Turco    ______")
-print(f"A166 \t IT-108L \t Proramming II -  python \t\t  {up2} \t  {lp2}\t\t 1-2:30 pm MTh COMLAB2A \t AI11 \t\t Dalan R.    ______")
+print("hello")
 sum = udm + uchr +up2
 print(f"\t\t\t\t\t\t\t\t\tTotal Units:      {sum} \t  {lp2}")
 print("heloow world")
+
