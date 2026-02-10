@@ -1,3 +1,4 @@
+
 print("_______________________________________________________________________________________________________________________________")
 print("ID no: 2400715 \t Name: Cabacaba, Yester A. \t\t\t\t\t\t\t\t Year: 1 \t\t\t\t\t\t\t\t 1/26/25")
 print("College: College of Arts and Sciences \t\t\t\t\t\t\t\t\t Section: AI11")
@@ -16,3 +17,6 @@ sum = udm + uchr +up2
 print(f"\t\t\t\t\t\t\t\t\tTotal Units:      {sum} \t  {lp2}")
 print("heloow world")
 
+print("bsit")
+
+print("unsa")
